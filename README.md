@@ -20,5 +20,5 @@ This is an example Visual Studio Solution and Project setup to be deployed to a 
  
 ## References
 
- - (Customizing and Configuring AWS Elastic Beanstalk Environments)[http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/customize-containers.html]
- - (Customizing the Software on EC2 Instances Running Windows)[http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/customize-containers-windows-ec2.html]
+ - [Customizing and Configuring AWS Elastic Beanstalk Environments](http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/customize-containers.html)
+ - [Customizing the Software on EC2 Instances Running Windows](http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/customize-containers-windows-ec2.html)
